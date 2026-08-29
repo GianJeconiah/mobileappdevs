@@ -24,3 +24,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "HelloCompose"
 include(":app")
+
+include(":latihancollection")
