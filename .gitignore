@@ -1,0 +1,27 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+build/
+.gradle/
+
+# Local configuration file
+local.properties
+
+# Android Studio captures
+captures/
+
+# IntelliJ related files
+.idea/
+*.iml
+.DS_Store
+
+# Artifacts
+.artifacts/
